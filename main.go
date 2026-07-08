@@ -1,4 +1,4 @@
-
+//go mod tidy download the library
 
 // we need to import os there are a methed inside it Getenv it ti read env variables
 
